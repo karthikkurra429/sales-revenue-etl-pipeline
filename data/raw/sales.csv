@@ -1,0 +1,4 @@
+order_id,order_date,customer_id,product_id,quantity,unit_price
+1,2025-12-01,101,201,2,50
+2,2025-12-02,102,202,1,100
+3,2025-12-03,103,203,5,30
